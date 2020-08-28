@@ -1,7 +1,0 @@
-{
-  "name": "blogstar",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
