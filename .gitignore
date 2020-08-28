@@ -1,5 +1,5 @@
 node_modules
 config/credentials
 client/node_modules
-client/dist/
-client/build/
+client/dist
+client/build
