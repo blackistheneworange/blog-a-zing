@@ -7,8 +7,7 @@ Live app - https://blog-a-zing.herokuapp.com
 
 Move in to the client directory and run the following commands:
 
-npm install
-ionic serve
+npm install && ionic serve
 
 
 The app will run at http://localhost:8100
@@ -18,8 +17,7 @@ The app will run at http://localhost:8100
 
 Move into the root folder and run the following commands:
 
-npm install
-npm start
+npm install && npm start
 
 
 The server will run at http://localhost:3000
