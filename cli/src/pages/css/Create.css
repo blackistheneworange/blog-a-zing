@@ -1,0 +1,22 @@
+ion-item-divider{
+	margin-top:20px;
+	border:0;
+}
+
+input,textarea{
+	all:unset;
+	border:1px solid #aaaaaa;
+	border-radius:6px;
+	padding:8px;
+	width:100%;
+}
+
+.create-page ion-button{
+	margin:30px auto !important;
+	width:90%;
+}
+
+.btn-loading{
+	opacity:0.5;
+}
+

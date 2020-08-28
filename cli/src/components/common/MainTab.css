@@ -1,0 +1,7 @@
+ion-tab-button{
+	margin:0 20vw;
+}
+
+.disabled-tab-button{
+	display:none;
+}
